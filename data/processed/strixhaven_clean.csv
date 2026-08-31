@@ -1,0 +1,530 @@
+name,text,manaCost,type,rarity,keywords,games_in_hand,win_rate
+The Dawning Archaic,"This spell costs {1} less to cast for each instant and sorcery card in your graveyard.
+Reach
+Whenever The Dawning Archaic attacks, you may cast target instant or sorcery card from your graveyard without paying its mana cost. If that spell would be put into your graveyard, exile it instead.",{10},Legendary Creature — Avatar,mythic,['Reach'],10289,0.538
+Rancorous Archaic,"Reach, trample
+Converge — This creature enters with a +1/+1 counter on it for each color of mana spent to cast it.",{5},Creature — Avatar,common,"['Converge', 'Reach', 'Trample']",39543,0.536
+Sundering Archaic,"Converge — When this creature enters, exile target nonland permanent an opponent controls with mana value less than or equal to the number of colors of mana spent to cast this creature.
+{2}: Put target card from a graveyard on the bottom of its owner's library.",{6},Creature — Avatar,uncommon,['Converge'],67627,0.588
+Together as One,"Converge — Target player draws X cards, Together as One deals X damage to any target, and you gain X life, where X is the number of colors of mana spent to cast this spell.",{6},Sorcery,rare,['Converge'],37273,0.656
+Transcendent Archaic,"Vigilance
+Converge — When this creature enters, you may draw X cards, where X is the number of colors of mana spent to cast this spell. If you draw one or more cards this way, discard two cards.",{7},Creature — Avatar,uncommon,"['Converge', 'Vigilance']",43681,0.57
+Ajani's Response,"This spell costs {3} less to cast if it targets a tapped creature.
+Destroy target creature.",{4}{W},Instant,common,,132194,0.576
+Antiquities on the Loose,"Create two 2/2 red and white Spirit creature tokens. Then if this spell was cast from anywhere other than your hand, put a +1/+1 counter on each Spirit you control.
+Flashback {4}{W}{W} (You may cast this card from your graveyard for its flashback cost. Then exile it.)",{1}{W}{W},Sorcery,rare,['Flashback'],32903,0.642
+Ascendant Dustspeaker,"Flying
+When this creature enters, put a +1/+1 counter on another target creature you control.
+At the beginning of combat on your turn, exile up to one target card from a graveyard.",{4}{W},Creature — Orc Cleric,common,['Flying'],77646,0.553
+Daydream,"Exile target creature you control, then return that card to the battlefield under its owner's control with a +1/+1 counter on it.
+Flashback {2}{W} (You may cast this card from your graveyard for its flashback cost. Then exile it.)",{W},Sorcery,uncommon,['Flashback'],9347,0.488
+Dig Site Inventory,"Put a +1/+1 counter on target creature you control. It gains vigilance until end of turn.
+Flashback {W} (You may cast this card from your graveyard for its flashback cost. Then exile it.)",{W},Sorcery,common,['Flashback'],86001,0.554
+Eager Glyphmage,"When this creature enters, create a 1/1 white and black Inkling creature token with flying.",{3}{W},Creature — Cat Cleric,common,,85268,0.56
+"Ennis, Debate Moderator","When Ennis enters, exile up to one other target creature you control. Return that card to the battlefield under its owner's control at the beginning of the next end step.
+At the beginning of your end step, if one or more cards were put into exile this turn, put a +1/+1 counter on Ennis.",{1}{W},Legendary Creature — Human Cleric,uncommon,,21283,0.5
+Erode,"Destroy target creature or planeswalker. Its controller may search their library for a basic land card, put it onto the battlefield tapped, then shuffle.",{W},Instant,rare,,20787,0.562
+Graduation Day,"Repartee — Whenever you cast an instant or sorcery spell that targets a creature, put a +1/+1 counter on target creature you control.",{W},Enchantment,uncommon,['Repartee'],15558,0.51
+Group Project,"Create a 2/2 red and white Spirit creature token.
+Flashback—Tap three untapped creatures you control. (You may cast this card from your graveyard for its flashback cost. Then exile it.)",{1}{W},Sorcery,uncommon,['Flashback'],56750,0.567
+Harsh Annotation,Destroy target creature. Its controller creates a 1/1 white and black Inkling creature token with flying.,{1}{W},Instant,uncommon,,8436,0.5
+Informed Inkwright,"Vigilance
+Repartee — Whenever you cast an instant or sorcery spell that targets a creature, create a 1/1 white and black Inkling creature token with flying.",{1}{W},Creature — Human Wizard,rare,"['Repartee', 'Vigilance']",29611,0.615
+Inkshape Demonstrator,"Ward {2} (Whenever this creature becomes the target of a spell or ability an opponent controls, counter it unless that player pays {2}.)
+Repartee — Whenever you cast an instant or sorcery spell that targets a creature, this creature gets +1/+0 and gains lifelink until end of turn.",{3}{W},Creature — Elephant Cleric,uncommon,"['Repartee', 'Ward']",46004,0.565
+Interjection,Target creature gets +2/+2 and gains first strike until end of turn.,{W},Instant,common,,35848,0.556
+Owlin Historian,"Flying
+When this creature enters, surveil 1. (Look at the top card of your library. You may put it into your graveyard.)
+Whenever one or more cards leave your graveyard, this creature gets +1/+1 until end of turn.",{2}{W},Creature — Bird Cleric,common,"['Flying', 'Surveil']",84930,0.554
+Practiced Offense,"Put a +1/+1 counter on each creature target player controls. Target creature gains your choice of double strike or lifelink until end of turn.
+Flashback {1}{W} (You may cast this card from your graveyard for its flashback cost. Then exile it.)",{2}{W},Sorcery,rare,['Flashback'],32527,0.647
+Primary Research,"When this enchantment enters, return target nonland permanent card with mana value 3 or less from your graveyard to the battlefield.
+At the beginning of your end step, if a card left your graveyard this turn, draw a card.",{4}{W},Enchantment,uncommon,,40061,0.549
+Rapier Wit,"Tap target creature. If it's your turn, put a stun counter on it. (If a permanent with a stun counter would become untapped, remove one from it instead.)
+Draw a card.",{1}{W},Instant,common,,36809,0.542
+Rehearsed Debater,"Vigilance
+Repartee — Whenever you cast an instant or sorcery spell that targets a creature, this creature gets +1/+1 until end of turn.",{2}{W},Creature — Djinn Bard,common,"['Repartee', 'Vigilance']",64884,0.547
+Restoration Seminar,"Return target nonland permanent card from your graveyard to the battlefield.
+Paradigm (Then exile this spell. After you first resolve a spell with this name, you may cast a copy of it from exile without paying its mana cost at the beginning of each of your first main phases.)",{5}{W}{W},Sorcery — Lesson,mythic,['Paradigm'],11777,0.574
+Shattered Acolyte,"Lifelink
+{1}, Sacrifice this creature: Destroy target artifact or enchantment.",{1}{W},Creature — Dwarf Warlock,common,['Lifelink'],98890,0.559
+Soaring Stoneglider,"As an additional cost to cast this spell, exile two cards from your graveyard or pay {1}{W}.
+Flying, vigilance",{2}{W},Creature — Elephant Cleric,uncommon,"['Flying', 'Vigilance']",37255,0.537
+Stand Up for Yourself,Destroy target creature with power 3 or greater.,{2}{W},Instant,uncommon,,55710,0.57
+Stirring Hopesinger,"Flying, lifelink
+Repartee — Whenever you cast an instant or sorcery spell that targets a creature, put a +1/+1 counter on each creature you control.",{2}{W},Creature — Bird Bard,rare,"['Flying', 'Lifelink', 'Repartee']",30492,0.627
+Stone Docent,"{W}, Exile this card from your graveyard: You gain 2 life. Surveil 1. Activate only as a sorcery. (Look at the top card of your library. You may put it into your graveyard.)",{1}{W},Creature — Spirit Chimera,common,['Surveil'],130580,0.565
+Summoned Dromedary,"Vigilance
+{1}{W}: Return this card from your graveyard to your hand. Activate only as a sorcery.",{3}{W},Creature — Spirit Camel,uncommon,['Vigilance'],36610,0.542
+Banishing Betrayal,Return target nonland permanent to its owner's hand. Surveil 1. (Look at the top card of your library. You may put it into your graveyard.),{1}{U},Instant,common,['Surveil'],85116,0.552
+Brush Off,"This spell costs {1}{U} less to cast if it targets an instant or sorcery spell.
+Counter target spell.",{2}{U}{U},Instant,uncommon,,58313,0.58
+Chase Inspiration,Target creature you control gets +0/+3 and gains hexproof until end of turn. (It can't be the target of spells or abilities your opponents control.),{U},Instant,common,,29173,0.543
+Deluge Virtuoso,"When this creature enters, tap target creature an opponent controls and put a stun counter on it. (If a permanent with a stun counter would become untapped, remove one from it instead.)
+Opus — Whenever you cast an instant or sorcery spell, this creature gets +1/+1 until end of turn. If five or more mana was spent to cast that spell, this creature gets +2/+2 until end of turn instead.",{2}{U},Creature — Human Wizard,common,['Opus'],46936,0.519
+Divergent Equation,"Return up to X target instant and/or sorcery cards from your graveyard to your hand.
+Exile Divergent Equation.",{X}{X}{U},Instant,uncommon,,63516,0.58
+Echocasting Symposium,"Target player creates a token that's a copy of target creature you control.
+Paradigm (Then exile this spell. After you first resolve a spell with this name, you may cast a copy of it from exile without paying its mana cost at the beginning of each of your first main phases.)",{4}{U}{U},Sorcery — Lesson,mythic,['Paradigm'],13079,0.579
+Essence Scatter,Counter target creature spell.,{1}{U},Instant,common,,141108,0.57
+Exhibition Tidecaller,"Opus — Whenever you cast an instant or sorcery spell, target player mills three cards. If five or more mana was spent to cast that spell, that player mills ten cards instead.",{U},Creature — Djinn Wizard,rare,"['Mill', 'Opus']",32444,0.603
+Flow State,"Look at the top three cards of your library. Put one of them into your hand and the rest on the bottom of your library in any order. If there is an instant card and a sorcery card in your graveyard, instead put two of them into your hand and the rest on the bottom of your library in any order.",{1}{U},Sorcery,uncommon,,60195,0.568
+Fractal Anomaly,"Create a 0/0 green and blue Fractal creature token and put X +1/+1 counters on it, where X is the number of cards you've drawn this turn.",{U},Instant,uncommon,,4494,0.485
+Fractalize,"Until end of turn, target creature becomes a green and blue Fractal with base power and toughness each equal to X plus 1. (It loses all other colors and creature types.)",{X}{U},Instant,uncommon,,8904,0.514
+Homesickness,"Target player draws two cards. Tap up to two target creatures. Put a stun counter on each of them. (If a permanent with a stun counter would become untapped, remove one from it instead.)",{4}{U}{U},Instant,uncommon,,44706,0.558
+Hydro-Channeler,"{T}: Add {U}. Spend this mana only to cast an instant or sorcery spell.
+{1}, {T}: Add one mana of any color. Spend this mana only to cast an instant or sorcery spell.",{1}{U},Creature — Merfolk Wizard,common,,107951,0.548
+Mana Sculpt,"Counter target spell. If you control a Wizard, add an amount of {C} equal to the amount of mana spent to cast that spell at the beginning of your next main phase.",{1}{U}{U},Instant,rare,,25449,0.579
+Mathemagics,"Target player draws 2ˣ cards. (2⁰ = 1, 2¹ = 2, 2² = 4, 2³ = 8, 2⁴ = 16, 2⁵ = 32, and so on.)",{X}{X}{U}{U},Sorcery,mythic,,16682,0.619
+Matterbending Mage,"When this creature enters, return up to one other target creature to its owner's hand.
+Whenever you cast a spell with {X} in its mana cost, this creature can't be blocked this turn.",{2}{U},Creature — Human Wizard,uncommon,,66844,0.582
+Muse Seeker,"Opus — Whenever you cast an instant or sorcery spell, draw a card. Then discard a card unless five or more mana was spent to cast that spell.",{1}{U},Creature — Elf Wizard,uncommon,['Opus'],36358,0.526
+Muse's Encouragement,"Create a 3/3 blue and red Elemental creature token with flying.
+Surveil 2. (Look at the top two cards of your library, then put any number of them into your graveyard and the rest on top of your library in any order.)",{4}{U},Instant,common,['Surveil'],46560,0.526
+"Orysa, Tide Choreographer","This spell costs {3} less to cast if creatures you control have total toughness 10 or greater.
+When Orysa enters, draw two cards.",{4}{U},Legendary Creature — Merfolk Bard,uncommon,,24424,0.533
+Pensive Professor,"Increment (Whenever you cast a spell, if the amount of mana you spent is greater than this creature's power or toughness, put a +1/+1 counter on this creature.)
+Whenever one or more +1/+1 counters are put on this creature, draw a card.",{1}{U}{U},Creature — Human Wizard,rare,['Increment'],28232,0.586
+Procrastinate,"Tap target creature. Put twice X stun counters on it. (If a permanent with a stun counter would become untapped, remove one from it instead.)",{X}{U},Sorcery,common,,43516,0.522
+Quick Study,Draw two cards.,{2}{U},Instant,common,,89565,0.561
+Run Behind,"This spell costs {1} less to cast if it targets an attacking creature.
+Target creature's owner puts it on their choice of the top or bottom of their library.",{3}{U},Instant,common,,125311,0.571
+Tester of the Tangential,"Increment (Whenever you cast a spell, if the amount of mana you spent is greater than this creature's power or toughness, put a +1/+1 counter on this creature.)
+At the beginning of combat on your turn, you may pay {X}. When you do, move X +1/+1 counters from this creature onto another target creature.",{1}{U},Creature — Djinn Wizard,uncommon,['Increment'],33424,0.539
+Textbook Tabulator,"Increment (Whenever you cast a spell, if the amount of mana you spent is greater than this creature's power or toughness, put a +1/+1 counter on this creature.)
+When this creature enters, surveil 2. (Look at the top two cards of your library, then put any number of them into your graveyard and the rest on top of your library in any order.)",{2}{U},Creature — Frog Wizard,common,"['Increment', 'Surveil']",38259,0.53
+Wisdom of Ages,"Return all instant and sorcery cards from your graveyard to your hand. You have no maximum hand size for the rest of the game.
+Exile Wisdom of Ages.",{4}{U}{U}{U},Sorcery,rare,,29367,0.577
+Arcane Omens,"Converge — Target player discards X cards, where X is the number of colors of mana spent to cast this spell.",{4}{B},Sorcery,uncommon,['Converge'],54788,0.598
+"Arnyn, Deathbloom Botanist","Deathtouch
+Whenever a creature you control with power or toughness 1 or less dies, target opponent loses 2 life and you gain 2 life.",{2}{B},Legendary Creature — Vampire Druid,uncommon,['Deathtouch'],17278,0.505
+Burrog Banemaker,"Deathtouch
+{1}{B}: This creature gets +1/+1 until end of turn.",{B},Creature — Frog Warlock,common,['Deathtouch'],61768,0.544
+Cost of Brilliance,Target player draws two cards and loses 2 life. Put a +1/+1 counter on up to one target creature.,{2}{B},Sorcery,common,,88183,0.574
+Decorum Dissertation,"Target player draws two cards and loses 2 life.
+Paradigm (Then exile this spell. After you first resolve a spell with this name, you may cast a copy of it from exile without paying its mana cost at the beginning of each of your first main phases.)",{3}{B}{B},Sorcery — Lesson,mythic,['Paradigm'],9355,0.562
+Dissection Practice,"Target opponent loses 1 life and you gain 1 life.
+Up to one target creature gets +1/+1 until end of turn.
+Up to one target creature gets -1/-1 until end of turn.",{B},Instant,uncommon,,39592,0.58
+End of the Hunt,Target opponent exiles a creature or planeswalker they control with the greatest mana value among creatures and planeswalkers they control.,{1}{B},Sorcery,uncommon,,53176,0.583
+Eternal Student,"{1}{B}, Exile this card from your graveyard: Create two 1/1 white and black Inkling creature tokens with flying.",{3}{B},Creature — Zombie Warlock,uncommon,,33011,0.542
+Foolish Fate,"Destroy target creature.
+Infusion — If you gained life this turn, that creature's controller loses 3 life.",{2}{B},Instant,uncommon,['Infusion'],54439,0.586
+Forum Necroscribe,"Ward—Discard a card.
+Repartee — Whenever you cast an instant or sorcery spell that targets a creature, return target creature card from your graveyard to the battlefield.",{5}{B},Creature — Troll Warlock,uncommon,"['Repartee', 'Ward']",26857,0.513
+Last Gasp,Target creature gets -3/-3 until end of turn.,{1}{B},Instant,common,,121370,0.574
+Lecturing Scornmage,"Repartee — Whenever you cast an instant or sorcery spell that targets a creature, put a +1/+1 counter on this creature.",{B},Creature — Human Warlock,uncommon,['Repartee'],44356,0.581
+Masterful Flourish,"Target creature you control gets +1/+0 and gains indestructible until end of turn. (Damage and effects that say ""destroy"" don't destroy it.)",{B},Instant,common,,38041,0.561
+Melancholic Poet,"Repartee — Whenever you cast an instant or sorcery spell that targets a creature, each opponent loses 1 life and you gain 1 life.",{1}{B},Creature — Elf Bard,common,['Repartee'],96211,0.56
+"Moseo, Vein's New Dean","Flying
+When Moseo enters, create a 1/1 black and green Pest creature token with ""Whenever this token attacks, you gain 1 life.""
+Infusion — At the beginning of your end step, if you gained life this turn, return up to one target creature card with mana value X or less from your graveyard to the battlefield, where X is the amount of life you gained this turn.",{2}{B},Legendary Creature — Bird Skeleton Warlock,rare,"['Flying', 'Infusion']",23833,0.601
+Poisoner's Apprentice,"Infusion — When this creature enters, target creature an opponent controls gets -4/-4 until end of turn if you gained life this turn.",{2}{B},Creature — Orc Warlock,uncommon,['Infusion'],32296,0.553
+Postmortem Professor,"This creature can't block.
+Whenever this creature attacks, each opponent loses 1 life and you gain 1 life.
+{1}{B}, Exile an instant or sorcery card from your graveyard: Return this card from your graveyard to the battlefield.",{1}{B},Creature — Zombie Warlock,rare,,23124,0.601
+Pull from the Grave,Return up to two target creature cards from your graveyard to your hand. You gain 2 life.,{2}{B},Sorcery,common,,33554,0.527
+Rabid Attack,"Until end of turn, any number of target creatures you control each get +1/+0 and gain ""When this creature dies, draw a card.""",{1}{B},Instant,uncommon,,8776,0.504
+"Ral Zarek, Guest Lecturer","[+1]: Surveil 2.
+[−1]: Any number of target players each discard a card.
+[−2]: Return target creature card with mana value 3 or less from your graveyard to the battlefield.
+[−7]: Flip five coins. Target opponent skips their next X turns, where X is the number of coins that came up heads.",{1}{B}{B},Legendary Planeswalker — Ral,mythic,['Surveil'],7869,0.546
+Send in the Pest,"Each opponent discards a card. You create a 1/1 black and green Pest creature token with ""Whenever this token attacks, you gain 1 life.""",{1}{B},Sorcery,common,,71485,0.55
+Sneering Shadewriter,"Flying
+When this creature enters, each opponent loses 2 life and you gain 2 life.",{4}{B},Creature — Vampire Warlock,common,['Flying'],42687,0.527
+Tragedy Feaster,"Trample
+Ward—Discard a card.
+Infusion — At the beginning of your end step, sacrifice a permanent unless you gained life this turn.",{2}{B}{B},Creature — Demon,rare,"['Infusion', 'Trample', 'Ward']",16015,0.551
+Ulna Alley Shopkeep,"Menace (This creature can't be blocked except by two or more creatures.)
+Infusion — This creature gets +2/+0 as long as you gained life this turn.",{2}{B},Creature — Goblin Warlock,common,"['Infusion', 'Menace']",12568,0.49
+Wander Off,Exile target creature.,{3}{B},Instant,common,,101931,0.558
+Withering Curse,"All creatures get -2/-2 until end of turn.
+Infusion — If you gained life this turn, destroy all creatures instead.",{1}{B}{B},Sorcery,mythic,['Infusion'],5910,0.535
+Ancestral Anger,"Target creature gains trample and gets +X/+0 until end of turn, where X is 1 plus the number of cards named Ancestral Anger in your graveyard.
+Draw a card.",{R},Sorcery,common,,21764,0.528
+Archaic's Agony,"Converge — Archaic's Agony deals X damage to target creature, where X is the number of colors of mana spent to cast this spell. Exile cards from the top of your library equal to the excess damage dealt to that creature this way. You may play those cards until the end of your next turn.",{4}{R},Sorcery,uncommon,['Converge'],38949,0.561
+Artistic Process,"Choose one —
+• Artistic Process deals 6 damage to target creature.
+• Artistic Process deals 2 damage to each creature you don't control.
+• Create a 3/3 blue and red Elemental creature token with flying. It gains haste until end of turn.",{3}{R}{R},Sorcery,uncommon,,59842,0.568
+Charging Strifeknight,"Haste
+{T}, Discard a card: Draw a card.",{2}{R},Creature — Spirit Knight,uncommon,['Haste'],57419,0.568
+Choreographed Sparks,"This spell can't be copied.
+Choose one or both —
+• Copy target instant or sorcery spell you control. You may choose new targets for the copy.
+• Copy target creature spell you control. The copy gains haste and ""At the beginning of the end step, sacrifice this token.""",{R}{R},Instant,rare,,2205,0.443
+Duel Tactics,"Duel Tactics deals 1 damage to target creature. It can't block this turn.
+Flashback {1}{R} (You may cast this card from your graveyard for its flashback cost. Then exile it.)",{R},Sorcery,uncommon,['Flashback'],20167,0.547
+Expressive Firedancer,"Opus — Whenever you cast an instant or sorcery spell, this creature gets +1/+1 until end of turn. If five or more mana was spent to cast that spell, this creature also gains double strike until end of turn.",{1}{R},Creature — Human Sorcerer,common,['Opus'],94168,0.553
+Flashback,Target instant or sorcery card in your graveyard gains flashback until end of turn. The flashback cost is equal to its mana cost. (You may cast that card from your graveyard for its flashback cost. Then exile it.),{R},Instant,rare,,17698,0.542
+Garrison Excavator,"Menace (This creature can't be blocked except by two or more creatures.)
+Whenever one or more cards leave your graveyard, create a 2/2 red and white Spirit creature token.",{3}{R},Creature — Orc Sorcerer,uncommon,['Menace'],54448,0.567
+Heated Argument,"Heated Argument deals 6 damage to target creature. You may exile a card from your graveyard. If you do, Heated Argument also deals 2 damage to that creature's controller.",{4}{R},Instant,common,,112863,0.555
+Impractical Joke,Damage can't be prevented this turn. Impractical Joke deals 3 damage to up to one target creature or planeswalker.,{R},Sorcery,uncommon,,75426,0.585
+Improvisation Capstone,"Exile cards from the top of your library until you exile cards with total mana value 4 or greater. You may cast any number of spells from among them without paying their mana costs.
+Paradigm (Then exile this spell. After you first resolve a spell with this name, you may cast a copy of it from exile without paying its mana cost at the beginning of each of your first main phases.)",{5}{R}{R},Sorcery — Lesson,mythic,['Paradigm'],16511,0.625
+Living History,"When this enchantment enters, create a 2/2 red and white Spirit creature token.
+Whenever you attack, if a card left your graveyard this turn, target attacking creature gets +2/+0 until end of turn.",{1}{R},Enchantment,uncommon,,48913,0.563
+Magmablood Archaic,"Reach, trample
+Converge — This creature enters with a +1/+1 counter on it for each color of mana spent to cast it.
+Whenever you cast an instant or sorcery spell, creatures you control get +1/+0 until end of turn for each color of mana spent to cast that spell.",{2/R}{2/R}{2/R},Creature — Avatar,rare,"['Converge', 'Reach', 'Trample']",27368,0.567
+"Mica, Reader of Ruins","Ward—Pay 3 life. (Whenever this creature becomes the target of a spell or ability an opponent controls, counter it unless that player pays 3 life.)
+Whenever you cast an instant or sorcery spell, you may sacrifice an artifact. If you do, copy that spell and you may choose new targets for the copy.",{3}{R},Legendary Creature — Human Artificer,uncommon,['Ward'],15744,0.53
+Molten-Core Maestro,"Menace
+Opus — Whenever you cast an instant or sorcery spell, put a +1/+1 counter on this creature. If five or more mana was spent to cast that spell, add an amount of {R} equal to this creature's power.",{1}{R},Creature — Goblin Bard,rare,"['Menace', 'Opus']",32030,0.597
+Rearing Embermare,"Reach, haste",{4}{R},Creature — Horse Beast,common,"['Haste', 'Reach']",11393,0.497
+Rubble Rouser,"When this creature enters, you may discard a card. If you do, draw a card.
+{T}, Exile a card from your graveyard: Add {R}. When you do, this creature deals 1 damage to each opponent.",{2}{R},Creature — Dwarf Sorcerer,common,,150144,0.578
+Seize the Spoils,"As an additional cost to cast this spell, discard a card.
+Draw two cards and create a Treasure token. (It's an artifact with ""{T}, Sacrifice this token: Add one mana of any color."")",{2}{R},Sorcery,common,['Treasure'],81231,0.549
+Steal the Show,"Choose one or both —
+• Target player discards any number of cards, then draws that many cards.
+• Steal the Show deals damage equal to the number of instant and sorcery cards in your graveyard to target creature or planeswalker.",{2}{R},Sorcery,rare,,13845,0.545
+Tablet of Discovery,"When this artifact enters, mill a card. You may play that card this turn. (To mill a card, put the top card of your library into your graveyard.)
+{T}: Add {R}.
+{T}: Add {R}{R}. Spend this mana only to cast instant and sorcery spells.",{2}{R},Artifact,uncommon,['Mill'],53533,0.567
+Tackle Artist,"Trample
+Opus — Whenever you cast an instant or sorcery spell, put a +1/+1 counter on this creature. If five or more mana was spent to cast that spell, put two +1/+1 counters on this creature instead.",{3}{R},Creature — Orc Sorcerer,common,"['Opus', 'Trample']",59457,0.527
+Thunderdrum Soloist,"Reach
+Opus — Whenever you cast an instant or sorcery spell, this creature deals 1 damage to each opponent. If five or more mana was spent to cast that spell, this creature deals 3 damage to each opponent instead.",{1}{R},Creature — Dwarf Bard,uncommon,"['Opus', 'Reach']",42783,0.553
+Tome Blast,"Tome Blast deals 2 damage to any target.
+Flashback {4}{R} (You may cast this card from your graveyard for its flashback cost. Then exile it.)",{1}{R},Sorcery,common,['Flashback'],165992,0.573
+Unsubtle Mockery,Unsubtle Mockery deals 4 damage to target creature. Surveil 1. (Look at the top card of your library. You may put it into your graveyard.),{2}{R},Instant,common,['Surveil'],164745,0.575
+Zealous Lorecaster,"When this creature enters, return target instant or sorcery card from your graveyard to your hand.",{5}{R},Creature — Giant Sorcerer,common,,87344,0.546
+Aberrant Manawurm,"Trample
+Whenever you cast an instant or sorcery spell, this creature gets +X/+0 until end of turn, where X is the amount of mana spent to cast that spell.",{3}{G},Creature — Wurm,uncommon,['Trample'],15297,0.509
+Additive Evolution,"When this enchantment enters, create a 0/0 green and blue Fractal creature token. Put three +1/+1 counters on it.
+At the beginning of combat on your turn, put a +1/+1 counter on target creature you control. It gains vigilance until end of turn.",{3}{G}{G},Enchantment,uncommon,,44403,0.573
+Ambitious Augmenter,"Increment (Whenever you cast a spell, if the amount of mana you spent is greater than this creature's power or toughness, put a +1/+1 counter on this creature.)
+When this creature dies, if it had one or more counters on it, create a 0/0 green and blue Fractal creature token, then put this creature's counters on that token.",{G},Creature — Turtle Wizard,rare,['Increment'],24282,0.604
+Burrog Barrage,Target creature you control gets +1/+0 until end of turn if you've cast another instant or sorcery spell this turn. Then it deals damage equal to its power to up to one target creature an opponent controls.,{1}{G},Instant,common,,78564,0.552
+Chelonian Tackle,Target creature you control gets +0/+10 until end of turn. Then it fights up to one target creature an opponent controls. (Each deals damage equal to its power to the other.),{2}{G},Sorcery,uncommon,['Fight'],13555,0.502
+Comforting Counsel,"Whenever you gain life, put a growth counter on this enchantment.
+As long as there are five or more growth counters on this enchantment, creatures you control get +3/+3.",{1}{G},Enchantment,rare,,5244,0.452
+Efflorescence,"Put two +1/+1 counters on target creature.
+Infusion — If you gained life this turn, that creature also gains trample and indestructible until end of turn.",{2}{G},Instant,common,['Infusion'],5876,0.494
+"Emil, Vastlands Roamer","Creatures you control with +1/+1 counters on them have trample.
+{4}{G}, {T}: Create a 0/0 green and blue Fractal creature token. Put X +1/+1 counters on it, where X is the number of differently named lands you control.",{2}{G},Legendary Creature — Elf Druid,uncommon,,31663,0.53
+Environmental Scientist,"When this creature enters, you may search your library for a basic land card, reveal it, put it into your hand, then shuffle.",{1}{G},Creature — Human Druid,uncommon,,63616,0.611
+Follow the Lumarets,"Infusion — Look at the top four cards of your library. You may reveal a creature or land card from among them and put it into your hand. If you gained life this turn, you may instead reveal two creature and/or land cards from among them and put them into your hand. Put the rest on the bottom of your library in a random order.",{1}{G},Sorcery,common,['Infusion'],25222,0.517
+Germination Practicum,"Put two +1/+1 counters on each creature you control.
+Paradigm (Then exile this spell. After you first resolve a spell with this name, you may cast a copy of it from exile without paying its mana cost at the beginning of each of your first main phases.)",{3}{G}{G},Sorcery — Lesson,mythic,['Paradigm'],11307,0.584
+Glorious Decay,"Choose one —
+• Destroy target artifact.
+• Glorious Decay deals 4 damage to target creature with flying.
+• Exile target card from a graveyard. Draw a card.",{1}{G},Instant,common,,6287,0.513
+Hungry Graffalon,"Reach
+Increment (Whenever you cast a spell, if the amount of mana you spent is greater than this creature's power or toughness, put a +1/+1 counter on this creature.)",{3}{G},Creature — Giraffe,common,"['Increment', 'Reach']",14428,0.507
+Lumaret's Favor,"Infusion — When you cast this spell, copy it if you gained life this turn. You may choose new targets for the copy.
+Target creature gets +2/+4 until end of turn.",{1}{G},Instant,uncommon,['Infusion'],7584,0.528
+Mindful Biomancer,"When this creature enters, you gain 1 life.
+{2}{G}: This creature gets +2/+2 until end of turn. Activate only once each turn.",{1}{G},Creature — Dryad Druid,common,,56336,0.534
+Noxious Newt,"Deathtouch
+{T}: Add {G}.",{1}{G},Creature — Salamander,common,['Deathtouch'],94140,0.554
+Oracle's Restoration,Target creature you control gets +1/+1 until end of turn. You draw a card and gain 1 life.,{G},Sorcery,common,,11859,0.494
+Pestbrood Sloth,"Reach
+When this creature dies, create two 1/1 black and green Pest creature tokens with ""Whenever this token attacks, you gain 1 life.""",{3}{G},Creature — Plant Sloth,uncommon,['Reach'],51066,0.588
+Planar Engineering,"Sacrifice two lands. Search your library for four basic land cards, put them onto the battlefield tapped, then shuffle.",{3}{G},Sorcery,rare,,11449,0.559
+Shopkeeper's Bane,"Trample
+Whenever this creature attacks, you gain 2 life.",{2}{G},Creature — Badger Pest,common,['Trample'],44220,0.531
+Slumbering Trudge,"This creature enters with a number of stun counters on it equal to three minus X. If X is 2 or less, it enters tapped. (If a permanent with a stun counter would become untapped, remove one from it instead.)",{X}{G},Creature — Plant Beast,rare,,25247,0.591
+Snarl Song,"Converge — Create two 0/0 green and blue Fractal creature tokens. Put X +1/+1 counters on each of them and you gain X life, where X is the number of colors of mana spent to cast this spell.",{5}{G},Sorcery,uncommon,['Converge'],78858,0.617
+Tenured Concocter,"Vigilance
+Whenever this creature becomes the target of a spell or ability an opponent controls, you may draw a card.
+Infusion — This creature gets +2/+0 as long as you gained life this turn.",{4}{G},Creature — Troll Druid,common,"['Infusion', 'Vigilance']",34266,0.522
+Thornfist Striker,"Ward {1} (Whenever this creature becomes the target of a spell or ability an opponent controls, counter it unless that player pays {1}.)
+Infusion — Creatures you control get +1/+0 and have trample as long as you gained life this turn.",{2}{G},Creature — Elf Druid,uncommon,"['Infusion', 'Ward']",31859,0.56
+Topiary Lecturer,"Increment (Whenever you cast a spell, if the amount of mana you spent is greater than this creature's power or toughness, put a +1/+1 counter on this creature.)
+{T}: Add an amount of {G} equal to this creature's power.",{2}{G},Creature — Elf Druid,uncommon,['Increment'],30331,0.545
+Wild Hypothesis,"Create a 0/0 green and blue Fractal creature token. Put X +1/+1 counters on it.
+Surveil 2. (Look at the top two cards of your library, then put any number of them into your graveyard and the rest on top of your library in any order.)",{X}{G},Sorcery,common,['Surveil'],31100,0.522
+Wildgrowth Archaic,"Reach, trample
+Converge — This creature enters with a +1/+1 counter on it for each color of mana spent to cast it.
+Whenever you cast a creature spell, that creature enters with X additional +1/+1 counters on it, where X is the number of colors of mana spent to cast it.",{2/G}{2/G},Creature — Avatar,rare,"['Converge', 'Reach', 'Trample']",23271,0.564
+Zimone's Experiment,"Look at the top five cards of your library. You may reveal up to two creature and/or land cards from among them, then put the rest on the bottom of your library in a random order. Put all land cards revealed this way onto the battlefield tapped and put all creature cards revealed this way into your hand.",{3}{G},Sorcery,uncommon,,16329,0.523
+Abstract Paintmage,"At the beginning of your first main phase, add {U}{R}. Spend this mana only to cast instant and sorcery spells.",{U}{U/R}{R},Creature — Djinn Sorcerer,uncommon,,22520,0.502
+Applied Geometry,"Create a token that's a copy of target non-Aura permanent you control, except it's a 0/0 Fractal creature in addition to its other types. Put six +1/+1 counters on it.",{2}{G}{U},Sorcery,rare,,27352,0.579
+Ark of Hunger,"Whenever one or more cards leave your graveyard, this artifact deals 1 damage to each opponent and you gain 1 life.
+{T}: Mill a card. You may play that card this turn.",{2}{R}{W},Artifact,rare,['Mill'],36976,0.631
+"Aziza, Mage Tower Captain","Whenever you cast an instant or sorcery spell, you may tap three untapped creatures you control. If you do, copy that spell. You may choose new targets for the copy.",{R}{W},Legendary Creature — Djinn Sorcerer,rare,,17127,0.532
+"Berta, Wise Extrapolator","Increment (Whenever you cast a spell, if the amount of mana you spent is greater than this creature's power or toughness, put a +1/+1 counter on this creature.)
+Whenever one or more +1/+1 counters are put on Berta, add one mana of any color.
+{X}, {T}: Create a 0/0 green and blue Fractal creature token and put X +1/+1 counters on it.",{2}{G}{U},Legendary Creature — Frog Druid,rare,['Increment'],22196,0.553
+"Blech, Loafing Pest","Whenever you gain life, put a +1/+1 counter on each Pest, Bat, Insect, Snake, and Spider you control.",{1}{B}{G},Legendary Creature — Pest,rare,,17398,0.591
+Bogwater Lumaret,"Whenever this creature or another creature you control enters, you gain 1 life.",{B}{G},Creature — Spirit Frog,common,,74573,0.551
+Borrowed Knowledge,"Choose one —
+• Discard your hand, then draw cards equal to the number of cards in target opponent's hand.
+• Discard your hand, then draw cards equal to the number of cards discarded this way.",{2}{R}{W},Sorcery,uncommon,,1568,0.461
+Cauldron of Essence,"Whenever a creature you control dies, each opponent loses 1 life and you gain 1 life.
+{1}{B}{G}, {T}, Sacrifice a creature: Return target creature card from your graveyard to the battlefield. Activate only as a sorcery.",{1}{B}{G},Artifact,rare,,15935,0.549
+Colorstorm Stallion,"Ward {1}, haste
+Opus — Whenever you cast an instant or sorcery spell, this creature gets +1/+1 until end of turn. If five or more mana was spent to cast that spell, create a token that's a copy of this creature.",{1}{U}{R},Creature — Elemental Horse,rare,"['Haste', 'Opus', 'Ward']",32248,0.625
+Colossus of the Blood Age,"When this creature enters, it deals 3 damage to each opponent and you gain 3 life.
+When this creature dies, discard any number of cards, then draw that many cards plus one.",{4}{R}{W},Artifact Creature — Construct,uncommon,,68864,0.585
+Conciliator's Duelist,"When this creature enters, draw a card. Each player loses 1 life.
+Repartee — Whenever you cast an instant or sorcery spell that targets a creature, exile up to one target creature. Return that card to the battlefield under its owner's control at the beginning of the next end step.",{W}{W}{B}{B},Creature — Kor Warlock,rare,['Repartee'],22348,0.597
+Cuboid Colony,"Flash
+Flying, trample
+Increment (Whenever you cast a spell, if the amount of mana you spent is greater than this creature's power or toughness, put a +1/+1 counter on this creature.)",{G}{U},Creature — Insect,uncommon,"['Flash', 'Flying', 'Increment', 'Trample']",38030,0.562
+Dina's Guidance,"Search your library for a creature card, reveal it, put it into your hand or graveyard, then shuffle.",{1}{B}{G},Instant,rare,,1342,0.454
+Elemental Mascot,"Flying, vigilance
+Opus — Whenever you cast an instant or sorcery spell, this creature gets +1/+0 until end of turn. If five or more mana was spent to cast that spell, exile the top card of your library. You may play that card until the end of your next turn.",{1}{U}{R},Creature — Elemental Bird,common,"['Flying', 'Opus', 'Vigilance']",74428,0.546
+Embrace the Paradox,Draw three cards. You may put a land card from your hand onto the battlefield tapped.,{3}{G}{U},Instant,common,,89575,0.563
+Essenceknit Scholar,"When this creature enters, create a 1/1 black and green Pest creature token with ""Whenever this token attacks, you gain 1 life.""
+At the beginning of your end step, if a creature died under your control this turn, draw a card.",{B}{B/G}{G},Creature — Dryad Warlock,uncommon,,37966,0.58
+Fix What's Broken,"As an additional cost to cast this spell, pay X life.
+Return each artifact and creature card with mana value X from your graveyard to the battlefield.",{2}{W}{B},Sorcery,rare,,3153,0.464
+Fractal Mascot,"Trample
+When this creature enters, tap target creature an opponent controls. Put a stun counter on it. (If a permanent with a stun counter would become untapped, remove one from it instead.)",{4}{G}{U},Creature — Fractal Elk,common,['Trample'],54194,0.541
+Fractal Tender,"Ward {2}
+Increment (Whenever you cast a spell, if the amount of mana you spent is greater than this creature's power or toughness, put a +1/+1 counter on this creature.)
+At the beginning of each end step, if you put a counter on this creature this turn, create a 0/0 green and blue Fractal creature token and put three +1/+1 counters on it.",{3}{G}{U},Creature — Elf Wizard,uncommon,"['Increment', 'Ward']",31144,0.533
+Geometer's Arthropod,"Whenever you cast a spell with {X} in its mana cost, look at the top X cards of your library. Put one of them into your hand and the rest on the bottom of your library in a random order.",{G}{U},Creature — Fractal Crab,rare,,9331,0.548
+Grapple with Death,Destroy target artifact or creature. You gain 1 life.,{1}{B}{G},Sorcery,common,,95664,0.564
+Growth Curve,"Put a +1/+1 counter on target creature you control, then double the number of +1/+1 counters on that creature.",{G}{U},Sorcery,uncommon,['Double'],4741,0.478
+Hardened Academic,"Flying, haste
+Discard a card: This creature gains lifelink until end of turn.
+Whenever one or more cards leave your graveyard, put a +1/+1 counter on target creature you control.",{R}{W},Creature — Bird Cleric,rare,"['Flying', 'Haste']",28053,0.606
+Imperious Inkmage,"Vigilance
+When this creature enters, surveil 2. (Look at the top two cards of your library, then put any number of them into your graveyard and the rest on top of your library in any order.)",{1}{W}{B},Creature — Orc Warlock,common,"['Surveil', 'Vigilance']",82473,0.572
+Inkling Mascot,"Repartee — Whenever you cast an instant or sorcery spell that targets a creature, this creature gains flying until end of turn. Surveil 1. (Look at the top card of your library. You may put it into your graveyard.)",{W}{B},Creature — Inkling Cat,common,"['Repartee', 'Surveil']",94463,0.561
+Killian's Confidence,"Target creature gets +1/+1 until end of turn. Draw a card.
+Whenever one or more creatures you control deal combat damage to a player, you may pay {W/B}. If you do, return this card from your graveyard to your hand.",{W}{B},Sorcery,uncommon,,38893,0.565
+Lorehold Charm,"Choose one —
+• Each opponent sacrifices a nontoken artifact of their choice.
+• Return target artifact or creature card with mana value 2 or less from your graveyard to the battlefield.
+• Creatures you control get +1/+1 and gain trample until end of turn.",{R}{W},Instant,uncommon,,25143,0.535
+"Lorehold, the Historian","Flying, haste
+Each instant and sorcery card in your hand has miracle {2}. (You may cast a card for its miracle cost when you draw it if it's the first card you drew this turn.)
+At the beginning of each opponent's upkeep, you may discard a card. If you do, draw a card.",{3}{R}{W},Legendary Creature — Elder Dragon,mythic,"['Flying', 'Haste']",13906,0.579
+Mind into Matter,Draw X cards. Then you may put a permanent card with mana value X or less from your hand onto the battlefield tapped.,{X}{G}{U},Sorcery,rare,,26005,0.579
+Mind Roots,Target player discards two cards. Put up to one land card discarded this way onto the battlefield tapped under your control.,{1}{B}{G},Sorcery,uncommon,,24476,0.531
+Molten Note,"Molten Note deals damage to target creature equal to the amount of mana spent to cast this spell. Untap all creatures you control.
+Flashback {6}{R}{W} (You may cast this card from your graveyard for its flashback cost. Then exile it.)",{X}{R}{W},Sorcery,uncommon,['Flashback'],72080,0.594
+Moment of Reckoning,"Choose up to four. You may choose the same mode more than once.
+• Destroy target nonland permanent.
+• Return target nonland permanent card from your graveyard to the battlefield.",{3}{W}{W}{B}{B},Sorcery,rare,,28367,0.633
+"Nita, Forum Conciliator","Whenever you cast a spell you don't own, put a +1/+1 counter on each creature you control.
+{2}, Sacrifice another creature: Exile target instant or sorcery card from an opponent's graveyard. You may cast it this turn, and mana of any type can be spent to cast that spell. If that spell would be put into a graveyard, exile it instead. Activate only as a sorcery.",{1}{W}{B},Legendary Creature — Human Advisor,rare,,9155,0.514
+Old-Growth Educator,"Reach, vigilance
+Infusion — When this creature enters, put two +1/+1 counters on it if you gained life this turn.",{2}{B}{G},Creature — Treefolk Druid,uncommon,"['Infusion', 'Reach', 'Vigilance']",27525,0.539
+Paradox Surveyor,"Reach
+When this creature enters, look at the top five cards of your library. You may reveal a land card or a card with {X} in its mana cost from among them and put it into your hand. Put the rest on the bottom of your library in a random order.",{G}{G/U}{U},Creature — Elf Druid,uncommon,['Reach'],51795,0.585
+Pest Mascot,"Trample
+Whenever you gain life, put a +1/+1 counter on this creature.",{1}{B}{G},Creature — Pest Ape,common,['Trample'],65034,0.532
+Practiced Scrollsmith,"First strike
+When this creature enters, exile target noncreature, nonland card from your graveyard. Until the end of your next turn, you may cast that card.",{R}{R/W}{W},Creature — Dwarf Cleric,uncommon,['First strike'],70789,0.59
+Prismari Charm,"Choose one —
+• Surveil 2, then draw a card.
+• Prismari Charm deals 1 damage to each of one or two targets.
+• Return target nonland permanent to its owner's hand.",{U}{R},Instant,uncommon,['Surveil'],52783,0.567
+"Prismari, the Inspiration","Flying
+Ward—Pay 5 life.
+Instant and sorcery spells you cast have storm. (Whenever you cast an instant or sorcery spell, copy it for each spell cast before it this turn. You may choose new targets for the copies.)",{5}{U}{R},Legendary Creature — Elder Dragon,mythic,"['Flying', 'Ward']",10060,0.542
+Proctor's Gaze,"Return up to one target nonland permanent to its owner's hand. Search your library for a basic land card, put it onto the battlefield tapped, then shuffle.",{2}{G}{U},Instant,uncommon,,58360,0.578
+Professor Dellian Fel,"[+2]: You gain 3 life.
+[0]: You draw a card and lose 1 life.
+[−3]: Destroy target creature.
+[−6]: You get an emblem with ""Whenever you gain life, target opponent loses that much life.""",{2}{B}{G},Legendary Planeswalker — Dellian,mythic,,12229,0.627
+Pterafractyl,"Flying
+This creature enters with X +1/+1 counters on it.
+When this creature enters, you gain 2 life.",{X}{G}{U},Creature — Dinosaur Fractal,common,['Flying'],65970,0.536
+Pursue the Past,"You gain 2 life. You may discard a card. If you do, draw two cards.
+Flashback {2}{R}{W} (You may cast this card from your graveyard for its flashback cost. Then exile it.)",{R}{W},Sorcery,common,['Flashback'],131150,0.591
+Quandrix Charm,"Choose one —
+• Counter target spell unless its controller pays {2}.
+• Destroy target enchantment.
+• Target creature has base power and toughness 5/5 until end of turn.",{G}{U},Instant,uncommon,,39915,0.576
+"Quandrix, the Proof","Flying, trample
+Cascade (When you cast this spell, exile cards from the top of your library until you exile a nonland card that costs less. You may cast it without paying its mana cost. Put the exiled cards on the bottom in a random order.)
+Instant and sorcery spells you cast from your hand have cascade.",{4}{G}{U},Legendary Creature — Elder Dragon,mythic,"['Cascade', 'Flying', 'Trample']",13691,0.612
+Rapturous Moment,"Draw three cards, then discard two cards. Add {U}{U}{R}{R}{R}.",{4}{U}{R},Sorcery,uncommon,,27194,0.533
+Render Speechless,"Target opponent reveals their hand. You choose a nonland card from it. That player discards that card.
+Put two +1/+1 counters on up to one target creature.",{2}{W}{B},Sorcery,common,,82026,0.574
+Resonating Lute,"Lands you control have ""{T}: Add two mana of any one color. Spend this mana only to cast instant and sorcery spells.""
+{T}: Draw a card. Activate only if you have seven or more cards in your hand.",{2}{U}{R},Artifact,rare,,25105,0.561
+Root Manipulation,"Until end of turn, creatures you control get +2/+2 and gain menace and ""Whenever this creature attacks, you gain 1 life."" (A creature with menace can't be blocked except by two or more creatures.)",{3}{B}{G},Sorcery,uncommon,,14511,0.527
+Scolding Administrator,"Menace (This creature can't be blocked except by two or more creatures.)
+Repartee — Whenever you cast an instant or sorcery spell that targets a creature, put a +1/+1 counter on this creature.
+When this creature dies, if it had counters on it, put those counters on up to one target creature.",{W}{B},Creature — Dwarf Cleric,uncommon,"['Menace', 'Repartee']",51212,0.604
+Silverquill Charm,"Choose one —
+• Put two +1/+1 counters on target creature.
+• Exile target creature with power 2 or less.
+• Each opponent loses 3 life and you gain 3 life.",{W}{B},Instant,uncommon,,47367,0.595
+"Silverquill, the Disputant","Flying, vigilance
+Each instant and sorcery spell you cast has casualty 1. (As you cast that spell, you may sacrifice a creature with power 1 or greater. When you do, copy the spell and you may choose new targets for the copy.)",{2}{W}{B},Legendary Creature — Elder Dragon,mythic,"['Flying', 'Vigilance']",9372,0.552
+Snooping Page,"Repartee — Whenever you cast an instant or sorcery spell that targets a creature, this creature can't be blocked this turn.
+Whenever this creature deals combat damage to a player, you draw a card and lose 1 life.",{1}{W}{B},Creature — Human Cleric,uncommon,['Repartee'],43086,0.558
+Social Snub,"When you cast this spell while you control a creature, you may copy this spell.
+Each player sacrifices a creature of their choice. Each opponent loses 1 life and you gain 1 life.",{1}{W}{B},Sorcery,uncommon,,4705,0.512
+Spectacular Skywhale,"Flying
+Opus — Whenever you cast an instant or sorcery spell, this creature gets +3/+0 until end of turn. If five or more mana was spent to cast that spell, put three +1/+1 counters on this creature instead.",{2}{U}{R},Creature — Elemental Whale,uncommon,"['Flying', 'Opus']",35100,0.522
+Spirit Mascot,"Whenever one or more cards leave your graveyard, put a +1/+1 counter on this creature.",{R}{W},Creature — Spirit Ox,common,,114521,0.555
+Splatter Technique,"Choose one —
+• Draw four cards.
+• Splatter Technique deals 4 damage to each creature and planeswalker.",{1}{U}{U}{R}{R},Sorcery,rare,,31493,0.61
+Stadium Tidalmage,"Whenever this creature enters or attacks, you may draw a card. If you do, discard a card.",{2}{U}{R},Creature — Djinn Sorcerer,common,,53956,0.541
+Startled Relic Sloth,"Trample, lifelink
+At the beginning of combat on your turn, exile up to one target card from a graveyard.",{2}{R}{W},Creature — Sloth Beast,uncommon,"['Lifelink', 'Trample']",58898,0.573
+Stirring Honormancer,"When this creature enters, look at the top X cards of your library, where X is the number of creatures you control. Put one of those cards into your hand and the rest into your graveyard.",{2}{W}{W/B}{B},Creature — Rhino Bard,uncommon,,47862,0.579
+Stress Dream,Stress Dream deals 5 damage to up to one target creature. Look at the top two cards of your library. Put one of those cards into your hand and the other on the bottom of your library.,{3}{U}{R},Instant,uncommon,,76388,0.601
+Suspend Aggression,"Exile target nonland permanent and the top card of your library. For each of those cards, its owner may play it until the end of their next turn.",{1}{R}{W},Instant,rare,,25936,0.573
+Teacher's Pest,"Menace (This creature can't be blocked except by two or more creatures.)
+Whenever this creature attacks, you gain 1 life.
+{B}{G}: Return this card from your graveyard to the battlefield tapped.",{B}{G},Creature — Skeleton Pest,uncommon,['Menace'],32046,0.546
+Traumatic Critique,"Traumatic Critique deals X damage to any target. Draw two cards, then discard a card.",{X}{U}{R},Instant,rare,,33623,0.603
+Vibrant Outburst,Vibrant Outburst deals 3 damage to any target. Tap up to one target creature.,{U}{R},Instant,uncommon,,65067,0.588
+Vicious Rivalry,"As an additional cost to cast this spell, pay X life.
+Destroy all artifacts and creatures with mana value X or less.",{2}{B}{G},Sorcery,rare,,21501,0.589
+Visionary's Dance,"Create two 3/3 blue and red Elemental creature tokens with flying.
+{2}, Discard this card: Look at the top two cards of your library. Put one of them into your hand and the other into your graveyard.",{5}{U}{R},Sorcery,common,,135752,0.564
+Wilt in the Heat,"This spell costs {2} less to cast if one or more cards left your graveyard this turn.
+Wilt in the Heat deals 5 damage to target creature. If that creature would die this turn, exile it instead.",{2}{R}{W},Instant,common,,131765,0.569
+Witherbloom Charm,"Choose one —
+• You may sacrifice a permanent. If you do, draw two cards.
+• You gain 5 life.
+• Destroy target nonland permanent with mana value 2 or less.",{B}{G},Instant,uncommon,,26781,0.539
+"Witherbloom, the Balancer","Affinity for creatures (This spell costs {1} less to cast for each creature you control.)
+Flying, deathtouch
+Instant and sorcery spells you cast have affinity for creatures.",{6}{B}{G},Legendary Creature — Elder Dragon,mythic,"['Affinity', 'Deathtouch', 'Flying']",6461,0.505
+Zaffai and the Tempests,"Once during each of your turns, you may cast an instant or sorcery spell from your hand without paying its mana cost.",{5}{U}{R},Legendary Creature — Human Bard Sorcerer,rare,,9948,0.515
+Biblioplex Tomekeeper,"When this creature enters, choose up to one —
+• Target creature becomes prepared. (Only creatures with prepare spells can become prepared.)
+• Target creature becomes unprepared.",{4},Artifact Creature — Construct,common,['Prepared'],2165,0.455
+Diary of Dreams,"Whenever you cast an instant or sorcery spell, put a page counter on this artifact.
+{5}, {T}: Draw a card. This ability costs {1} less to activate for each page counter on this artifact.",{2},Artifact — Book,uncommon,,28253,0.517
+Mage Tower Referee,"Whenever you cast a multicolored spell, put a +1/+1 counter on this creature.",{2},Artifact Creature — Construct,common,,36871,0.538
+"Page, Loose Leaf","{T}: Add {C}.
+Grandeur — Discard another card named Page, Loose Leaf: Reveal cards from the top of your library until you reveal an instant or sorcery card. Put that card into your hand and the rest on the bottom of your library in a random order.",{2},Legendary Artifact Creature — Construct,common,['Grandeur'],20954,0.527
+Potioner's Trove,"{T}: Add one mana of any color.
+{T}: You gain 2 life. Activate only if you've cast an instant or sorcery spell this turn.",{3},Artifact,common,,154963,0.574
+Strixhaven Skycoach,"Flying
+When this Vehicle enters, you may search your library for a basic land card, reveal it, put it into your hand, then shuffle.
+Crew 2 (Tap any number of creatures you control with total power 2 or more: This Vehicle becomes an artifact creature until end of turn.)",{3},Artifact — Vehicle,uncommon,"['Crew', 'Flying']",79923,0.589
+Deathcap Glade,"This land enters tapped unless you control two or more other lands.
+{T}: Add {B} or {G}.",,Land,rare,,19252,0.557
+Dreamroot Cascade,"This land enters tapped unless you control two or more other lands.
+{T}: Add {G} or {U}.",,Land,rare,,23443,0.566
+Fields of Strife,"This land enters tapped.
+{T}: Add {R} or {W}.
+{2}{R}{W}, {T}: Surveil 1. (Look at the top card of your library. You may put it into your graveyard.)",,Land,common,['Surveil'],170360,0.569
+Forum of Amity,"This land enters tapped.
+{T}: Add {W} or {B}.
+{2}{W}{B}, {T}: Surveil 1. (Look at the top card of your library. You may put it into your graveyard.)",,Land,common,['Surveil'],127266,0.559
+Great Hall of the Biblioplex,"{T}: Add {C}.
+{T}, Pay 1 life: Add one mana of any color. Spend this mana only to cast an instant or sorcery spell.
+{5}: If this land isn't a creature, it becomes a 2/4 Wizard creature with ""Whenever you cast an instant or sorcery spell, this creature gets +1/+0 until end of turn."" It's still a land.",,Land,rare,,31228,0.588
+Paradox Gardens,"This land enters tapped.
+{T}: Add {G} or {U}.
+{2}{G}{U}, {T}: Surveil 1. (Look at the top card of your library. You may put it into your graveyard.)",,Land,common,['Surveil'],150918,0.562
+Shattered Sanctum,"This land enters tapped unless you control two or more other lands.
+{T}: Add {W} or {B}.",,Land,rare,,20344,0.572
+Skycoach Waypoint,"{T}: Add {C}.
+{3}, {T}: Target creature becomes prepared. (Only creatures with prepare spells can become prepared.)",,Land,uncommon,['Prepared'],5858,0.497
+Spectacle Summit,"This land enters tapped.
+{T}: Add {U} or {R}.
+{2}{U}{R}, {T}: Surveil 1. (Look at the top card of your library. You may put it into your graveyard.)",,Land,common,['Surveil'],177681,0.564
+Stormcarved Coast,"This land enters tapped unless you control two or more other lands.
+{T}: Add {U} or {R}.",,Land,rare,,27827,0.569
+Sundown Pass,"This land enters tapped unless you control two or more other lands.
+{T}: Add {R} or {W}.",,Land,rare,,26223,0.571
+Terramorphic Expanse,"{T}, Sacrifice this land: Search your library for a basic land card, put it onto the battlefield tapped, then shuffle.",,Land,common,,169836,0.563
+Titan's Grave,"This land enters tapped.
+{T}: Add {B} or {G}.
+{2}{B}{G}, {T}: Surveil 1. (Look at the top card of your library. You may put it into your graveyard.)",,Land,common,['Surveil'],126771,0.553
+"Abigale, Poet Laureate // Heroic Stanza","Flying
+Whenever you cast a creature spell, Abigale becomes prepared. (While it's prepared, you may cast a copy of its spell. Doing so unprepares it.)
+Put a +1/+1 counter on target creature.",{1}{W}{B},Legendary Creature — Bird Bard,uncommon,"['Flying', 'Prepared']",35517,0.546
+Adventurous Eater // Have a Bite,"This creature enters prepared. (While it's prepared, you may cast a copy of its spell. Doing so unprepares it.)
+Put a +1/+1 counter on target creature. You gain 1 life.",{2}{B},Creature — Human Warlock,common,['Prepared'],69083,0.54
+Blazing Firesinger // Seething Song,"This creature enters prepared. (While it's prepared, you may cast a copy of its spell. Doing so unprepares it.)
+Add {R}{R}{R}{R}{R}.",{2}{R},Creature — Dwarf Bard,uncommon,['Prepared'],17613,0.498
+Campus Composer // Aqueous Aria,"Ward {2}
+This creature enters prepared. (While it's prepared, you may cast a copy of its spell. Doing so unprepares it.)
+Create a 3/3 blue and red Elemental creature token with flying.",{3}{U},Creature — Merfolk Bard,uncommon,"['Prepared', 'Ward']",36038,0.54
+Cheerful Osteomancer // Raise Dead,"This creature enters prepared. (While it's prepared, you may cast a copy of its spell. Doing so unprepares it.)
+Return target creature card from your graveyard to your hand.",{3}{B},Creature — Orc Warlock,common,['Prepared'],44338,0.514
+Elite Interceptor // Rejoinder,"This creature enters prepared. (While it's prepared, you may cast a copy of its spell. Doing so unprepares it.)
+You may tap or untap target creature.
+Draw a card.",{W},Creature — Human Wizard,common,['Prepared'],172182,0.592
+Emeritus of Abundance // Regrowth,"Vigilance
+This creature enters prepared.
+Whenever this creature attacks, if you control eight or more lands, this creature becomes prepared.
+Return target card from your graveyard to your hand.",{2}{G},Creature — Elf Druid,mythic,"['Prepared', 'Vigilance']",12212,0.593
+Emeritus of Conflict // Lightning Bolt,"First strike
+Whenever you cast your third spell each turn, this creature becomes prepared. (While it's prepared, you may cast a copy of its spell. Doing so unprepares it.)
+Lightning Bolt deals 3 damage to any target.",{1}{R},Creature — Human Wizard,mythic,"['First strike', 'Prepared']",11763,0.546
+Emeritus of Ideation // Ancestral Recall,"Flying, ward {2}
+This creature enters prepared.
+Whenever this creature attacks, you may exile eight cards from your graveyard. If you do, this creature becomes prepared.
+Target player draws three cards.",{3}{U}{U},Creature — Human Wizard,mythic,"['Flying', 'Prepared', 'Ward']",15071,0.645
+Emeritus of Truce // Swords to Plowshares,"When this creature enters, target player creates a 1/1 white and black Inkling creature token with flying. Then if an opponent controls more creatures than you, this creature becomes prepared. (While it's prepared, you may cast a copy of its spell. Doing so unprepares it.)
+Exile target creature. Its controller gains life equal to its power.",{1}{W}{W},Creature — Cat Cleric,mythic,['Prepared'],12551,0.585
+Emeritus of Woe // Demonic Tutor,"This creature enters prepared. (While it's prepared, you may cast a copy of its spell. Doing so unprepares it.)
+At the beginning of your end step, if two or more creatures died this turn, this creature becomes prepared.
+Search your library for a card, put that card into your hand, then shuffle.",{3}{B},Creature — Vampire Warlock,mythic,['Prepared'],12640,0.59
+Encouraging Aviator // Jump,"Flying
+Whenever this creature attacks, it becomes prepared. (While it's prepared, you may cast a copy of its spell. Doing so unprepares it.)
+Target creature gains flying until end of turn.",{2}{U},Creature — Bird Wizard,uncommon,"['Flying', 'Prepared']",20021,0.504
+Goblin Glasswright // Craft with Pride,"This creature enters prepared. (While it's prepared, you may cast a copy of its spell. Doing so unprepares it.)
+Create a Treasure token. (It's an artifact with ""{T}, Sacrifice this token: Add one mana of any color."")",{1}{R},Creature — Goblin Sorcerer,common,"['Prepared', 'Treasure']",103961,0.539
+Grave Researcher // Reanimate,"At the beginning of your upkeep, surveil 1. Then if there are three or more creature cards in your graveyard, this creature becomes prepared. (While it's prepared, you may cast a copy of its spell. Doing so unprepares it.)
+Put target creature card from a graveyard onto the battlefield under your control. You lose life equal to that card's mana value.",{2}{B},Creature — Troll Warlock,rare,"['Prepared', 'Surveil']",19479,0.555
+Harmonized Trio // Brainstorm,"{T}, Tap two untapped creatures you control: This creature becomes prepared. (While it's prepared, you may cast a copy of its spell. Doing so unprepares it.)
+Draw three cards, then put two cards from your hand on top of your library in any order.",{U},Creature — Merfolk Bard Wizard,rare,['Prepared'],13817,0.533
+Honorbound Page // Forum's Favor,"First strike
+This creature enters prepared. (While it's prepared, you may cast a copy of its spell. Doing so unprepares it.)
+Target creature gets +1/+0 and gains flying until end of turn.",{3}{W},Creature — Cat Cleric,common,"['First strike', 'Prepared']",47495,0.531
+Infirmary Healer // Stream of Life,"This creature enters prepared. (While it's prepared, you may cast a copy of its spell. Doing so unprepares it.)
+Target player gains X life.",{1}{G},Creature — Cat Cleric,uncommon,['Prepared'],34280,0.536
+"Jadzi, Steward of Fate // Oracle's Gift","Jadzi enters prepared. (While it's prepared, you may cast a copy of its spell. Doing so unprepares it.)
+When Jadzi enters, draw two cards, then discard two cards.
+Create X 0/0 green and blue Fractal creature tokens, then put X +1/+1 counters on each Fractal you control.",{2}{U},Legendary Creature — Human Wizard,rare,['Prepared'],31432,0.595
+Joined Researchers // Secret Rendezvous,"First strike
+At the beginning of each end step, if an opponent has more cards in hand than you, this creature becomes prepared. (While it's prepared, you may cast a copy of its spell. Doing so unprepares it.)
+You and target opponent each draw three cards.",{1}{W},Creature — Human Cleric Wizard,rare,"['First strike', 'Prepared']",19420,0.549
+"Kirol, History Buff // Pack a Punch","Whenever one or more cards leave your graveyard, Kirol becomes prepared. (While it's prepared, you may cast a copy of its spell. Doing so unprepares it.)
+Mill a card. Put two +1/+1 counters on target creature. It gains trample until end of turn.",{R}{W},Legendary Creature — Vampire Cleric,uncommon,"['Mill', 'Prepared']",48997,0.557
+Landscape Painter // Vibrant Idea,"This creature enters prepared. (While it's prepared, you may cast a copy of its spell. Doing so unprepares it.)
+Draw two cards.",{1}{U},Creature — Merfolk Wizard,common,['Prepared'],71832,0.536
+Leech Collector // Bloodletting,"Whenever you gain life for the first time each turn, this creature becomes prepared. (While it's prepared, you may cast a copy of its spell. Doing so unprepares it.)
+Each opponent loses 2 life.",{1}{B},Creature — Human Warlock,uncommon,['Prepared'],25415,0.518
+"Lluwen, Exchange Student // Pest Friend","Lluwen enters prepared. (While it's prepared, you may cast a copy of its spell. Doing so unprepares it.)
+Exile a creature card from your graveyard: Lluwen becomes prepared. Activate only as a sorcery.
+Create a 1/1 black and green Pest creature token with ""Whenever this token attacks, you gain 1 life.""",{2}{B}{G},Legendary Creature — Elf Druid,uncommon,['Prepared'],31990,0.559
+Maelstrom Artisan // Rocket Volley,"Haste
+This creature enters prepared. (While it's prepared, you may cast a copy of its spell. Doing so unprepares it.)
+Destroy target nonbasic land.",{1}{R}{R},Creature — Minotaur Sorcerer,rare,"['Haste', 'Prepared']",7487,0.512
+Pigment Wrangler // Striking Palette,"Flying
+This creature enters prepared. (While it's prepared, you may cast a copy of its spell. Doing so unprepares it.)
+When you next cast an instant or sorcery spell this turn, copy that spell. You may choose new targets for the copy.",{4}{R},Creature — Orc Sorcerer,uncommon,"['Flying', 'Prepared']",33724,0.51
+Quill-Blade Laureate // Twofold Intent,"Double strike
+This creature enters prepared. (While it's prepared, you may cast a copy of its spell. Doing so unprepares it.)
+Target creature gets +1/+0 and gains double strike until end of turn.",{1}{W},Creature — Human Cleric,uncommon,"['Double strike', 'Prepared']",54320,0.569
+"Sanar, Unfinished Genius // Wild Idea","Sanar enters prepared. (While it's prepared, you may cast a copy of its spell. Doing so unprepares it.)
+{T}: Create a Treasure token. Activate only if you've cast an instant or sorcery spell this turn.
+Search your library for an instant or sorcery card, reveal it, put it into your hand, then shuffle.",{U}{R},Legendary Creature — Goblin Sorcerer,uncommon,"['Prepared', 'Treasure']",64162,0.588
+Scathing Shadelock // Venomous Words,"At the beginning of your first main phase, this creature becomes prepared. (While it's prepared, you may cast a copy of its spell. Doing so unprepares it.)
+Target creature you control gets +2/+0 and gains deathtouch until end of turn.",{4}{B},Creature — Snake Warlock,uncommon,['Prepared'],20904,0.524
+Scheming Silvertongue // Sign in Blood,"Flying, lifelink
+At the beginning of your second main phase, if you gained 2 or more life this turn, this creature becomes prepared. (While it's prepared, you may cast a copy of its spell. Doing so unprepares it.)
+Target player draws two cards and loses 2 life.",{1}{B},Creature — Vampire Warlock,rare,"['Flying', 'Lifelink', 'Prepared']",23256,0.59
+Skycoach Conductor // All Aboard,"Flash
+Flying, vigilance
+This creature enters prepared. (While it's prepared, you may cast a copy of its spell. Doing so unprepares it.)
+Exile target non-Pilot creature you control, then return that card to the battlefield under its owner's control.",{2}{U},Creature — Bird Pilot,rare,"['Flash', 'Flying', 'Prepared', 'Vigilance']",24127,0.57
+Spellbook Seeker // Careful Study,"Flying
+This creature enters prepared. (While it's prepared, you may cast a copy of its spell. Doing so unprepares it.)
+Draw two cards, then discard two cards.",{3}{U},Creature — Bird Wizard,common,"['Flying', 'Prepared']",29950,0.506
+Spiritcall Enthusiast // Scrollboost,"Whenever one or more tokens you control enter, this creature becomes prepared. (While it's prepared, you may cast a copy of its spell. Doing so unprepares it.)
+One or two target creatures each get +2/+2 until end of turn.",{2}{W},Creature — Cat Cleric,uncommon,['Prepared'],20421,0.519
+Strife Scholar // Awaken the Ages,"Ward—Pay 2 life.
+This creature enters prepared. (While it's prepared, you may cast a copy of its spell. Doing so unprepares it.)
+Create two 2/2 red and white Spirit creature tokens.",{2}{R},Creature — Orc Sorcerer,common,"['Prepared', 'Ward']",29688,0.509
+Studious First-Year // Rampant Growth,"This creature enters prepared. (While it's prepared, you may cast a copy of its spell. Doing so unprepares it.)
+Search your library for a basic land card, put that card onto the battlefield tapped, then shuffle.",{G},Creature — Bear Wizard,common,['Prepared'],113054,0.569
+"Tam, Observant Sequencer // Deep Sight","Landfall — Whenever a land you control enters, Tam becomes prepared. (While it's prepared, you may cast a copy of its spell. Doing so unprepares it.)
+You draw a card and gain 1 life.",{2}{G}{U},Legendary Creature — Gorgon Wizard,uncommon,"['Landfall', 'Prepared']",32232,0.524
+Vastlands Scavenger // Bind to Life,"Deathtouch
+This creature enters prepared. (While it's prepared, you may cast a copy of its spell. Doing so unprepares it.)
+Mill seven cards. Then put a creature card from among them onto the battlefield.",{1}{G}{G},Creature — Bear Druid,rare,"['Deathtouch', 'Mill', 'Prepared']",20073,0.571
