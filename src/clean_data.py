@@ -15,6 +15,9 @@ def clean_one_set(json_path, csv_path, set_code):
     if "side" not in mtg_df.columns:
         mtg_df["side"] = pd.NA
 
+    # Vanilla creatures with no text field
+    mtg_df["text"] = mtg_df["text"].fillna("")
+
     mtg_df = mtg_df[~mtg_df["supertypes"].apply(lambda s: isinstance(s, list) and "Basic" in s)]
     mtg_df = mtg_df.drop_duplicates(subset=["name", "side"], keep="first")
 
